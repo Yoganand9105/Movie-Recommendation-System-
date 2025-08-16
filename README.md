@@ -49,7 +49,8 @@ The dataset used contains:
 
 ---
 
-## 🖥️ How to Run
+## 🖥️ How to Run the code
+
 
 1. Clone the repo:
    ```bash
